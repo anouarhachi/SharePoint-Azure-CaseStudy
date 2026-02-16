@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "case-study-sender-web-part": {
+      "dependencies": [],
+      "asyncChunks": {}
+    }
+  }
+}

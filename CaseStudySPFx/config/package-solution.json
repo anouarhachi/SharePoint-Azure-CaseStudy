@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "case-study-spfx-client-side-solution",
+    "id": "d9f33116-fd15-43e7-88b6-30cda1c7db9b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "case-study-spfx description"
+      },
+      "longDescription": {
+        "default": "case-study-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "case-study-spfx Feature",
+        "description": "The feature that activates elements of the case-study-spfx solution.",
+        "id": "2830b6dd-06a9-413c-b438-a5848ef6b466",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/case-study-spfx.sppkg"
+  }
+}
